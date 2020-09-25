@@ -1,0 +1,20 @@
+.card-img {
+  width: 80% !important;
+  border-radius: 25px !important;
+  margin: auto;
+}
+
+.card-style {
+  border: none !important;
+  text-align: center;
+  text-align: justify;
+}
+.seeMore-btn {
+  border: none;
+  background: none;
+  color: #4682b4;
+  font-weight: 900;
+}
+.seeMore-btn:focus {
+  outline: initial;
+}

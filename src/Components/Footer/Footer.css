@@ -1,0 +1,16 @@
+footer a {
+  text-decoration: none;
+  color: white;
+  line-height: 2;
+}
+footer a:hover {
+  color: red;
+  text-decoration: none !important;
+}
+footer li {
+  list-style-type: none;
+}
+
+.footer-last li {
+  padding-right: 30px;
+}

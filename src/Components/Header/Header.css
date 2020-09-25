@@ -1,0 +1,11 @@
+.red-button {
+  background-color: #F91944 !important;
+  color: #fff !important;
+  text-align: center !important;
+  width: 20vh;
+  border-radius: 30px !important;
+}
+
+li.nav-item {
+  padding: 10px 5px;
+}

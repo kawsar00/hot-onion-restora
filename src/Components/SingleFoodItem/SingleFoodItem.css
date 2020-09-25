@@ -1,0 +1,8 @@
+.card-shadow:hover {
+  box-shadow: 3px 10px 25px grey;
+  
+}
+
+a:hover{
+  text-decoration: none !important;
+}
