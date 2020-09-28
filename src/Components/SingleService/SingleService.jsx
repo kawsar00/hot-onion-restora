@@ -7,7 +7,7 @@ const SingleService = (props) => {
 
   return (
     <div className="col-md-4">
-      <div className="card card-style">
+      <div className="card card-style card-shadow">
         <img className="img-fluid card-img" src={img} alt="" />
         <div className="card-body d-flex">
           <div className="col-md-2 mr-3">
